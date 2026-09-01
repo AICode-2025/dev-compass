@@ -1,0 +1,17 @@
+# 依赖与缓存
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# 隐私：绝不上传个人记忆 / 凭证 / 令牌
+**/project_memory.md
+**/user_profile.md
+**/memory/
+*.token
+*.env
+.env.*
+**/node_modules/
+
+# 系统文件
+Thumbs.db
